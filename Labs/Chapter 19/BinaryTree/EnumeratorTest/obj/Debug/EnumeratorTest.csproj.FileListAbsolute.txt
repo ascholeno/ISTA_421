@@ -1,0 +1,10 @@
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe.config
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.dll
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CopyComplete
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.pdb

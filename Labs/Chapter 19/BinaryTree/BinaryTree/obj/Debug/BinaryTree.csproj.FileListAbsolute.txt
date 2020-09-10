@@ -1,0 +1,6 @@
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA421\Labs\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
